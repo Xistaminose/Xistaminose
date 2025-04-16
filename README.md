@@ -88,7 +88,6 @@ Beyond my professional work, I'm fascinated by complex systems and their visual 
 
 <div align="center">
   <a href="https://github.com/Xistaminose">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xistaminose&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xistaminose&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
@@ -102,13 +101,6 @@ I'm currently working on:
 - Building visualizations of complex algorithms
 - Contributing to open-source projects in the Go ecosystem
 - Creating educational content about creative programming
-
-## 💭 Programming Philosophy
-
-```
-"Code isn't just a tool to solve problems—it's a medium for creative expression. 
-The most elegant solutions emerge when technical precision meets artistic intuition."
-```
 
 ## 🔗 Connect With Me
 
@@ -130,6 +122,5 @@ The most elegant solutions emerge when technical precision meets artistic intuit
   <img src="https://komarev.com/ghpvc/?username=Xistaminose&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   <p>⭐️ From <a href="https://github.com/Xistaminose">Leandro Gabriel de Almeida</a></p>
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
 </div> 
