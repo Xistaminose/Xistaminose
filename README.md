@@ -82,8 +82,6 @@ Beyond my professional work, I'm fascinated by complex systems and their visual 
 - 🐜 **[Ant Colony Optimization](https://github.com/Xistaminose/aco_path)** - Path-finding visualization inspired by ant behaviors
 - 🔄 **[Artificial Life](https://github.com/Xistaminose/artificial_life)** - Simulations of artificial lifeforms and their evolution
 
-> "Apaixonado por linguagens de programação e sistemas complexos, busco constantemente explorar a intersecção entre criatividade e código. Transformo algoritmos em experiências visuais fascinantes."
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,7 +118,8 @@ I'm currently working on:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xistaminose&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
+    <img src="https://komarev.com/ghpvc/?username=Xistaminose&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+
   <p>⭐️ From <a href="https://github.com/Xistaminose">Leandro Gabriel de Almeida</a></p>
 
 </div> 
