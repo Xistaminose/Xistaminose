@@ -118,8 +118,6 @@ I'm currently working on:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xistaminose&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-    <img src="https://komarev.com/ghpvc/?username=Xistaminose&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
-
   <p>⭐️ From <a href="https://github.com/Xistaminose">Leandro Gabriel de Almeida</a></p>
 
 </div> 
